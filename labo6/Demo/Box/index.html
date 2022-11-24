@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        h1 {
+            background-color: red;
+
+        }
+        p{
+            background-color: blue;
+        }
+        span{
+            background-color: yellow;
+        }
+        /*bij margin wordt background color niet overgenomen*/
+body {
+    background-color: antiquewhite;
+
+}
+.block{
+    width: 100px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto
+}
+.blockPar{
+    width: 50%;
+    margin: 50px;
+    padding: 50px 10px 50px 10px;
+}
+        .spanCenter{
+            margin-right: auto;
+            margin-left: auto;
+            width: 200px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+<h1 class="block">VIVES</h1>
+<p class="blockPar">Vives <span class="spanCenter">CSS</span> heeft verschillende campussen</p>
+
+</body>
+</html>

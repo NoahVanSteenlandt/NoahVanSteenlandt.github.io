@@ -13,17 +13,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laboflexbox/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FkyxL7DG2LQUUr1EDqu5BNdkuH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -42,6 +45,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo5\sytle" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +65,16 @@
       <workItem from="1665491792204" duration="1248000" />
       <workItem from="1665650994399" duration="148000" />
       <workItem from="1665654117623" duration="2936000" />
-      <workItem from="1666205070664" duration="978000" />
+      <workItem from="1666205070664" duration="1606000" />
+      <workItem from="1666262516639" duration="975000" />
+      <workItem from="1666860816570" duration="374000" />
+      <workItem from="1666861786808" duration="5288000" />
+      <workItem from="1668078798363" duration="2797000" />
+      <workItem from="1668631006292" duration="595000" />
+      <workItem from="1668690124362" duration="1031000" />
+      <workItem from="1668691893496" duration="3284000" />
+      <workItem from="1669018921594" duration="2666000" />
+      <workItem from="1669049852168" duration="763000" />
     </task>
     <servers />
   </component>
