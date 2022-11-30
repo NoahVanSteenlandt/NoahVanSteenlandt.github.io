@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laboflexbox/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,6 +75,8 @@
       <workItem from="1668691893496" duration="3284000" />
       <workItem from="1669018921594" duration="2666000" />
       <workItem from="1669049852168" duration="763000" />
+      <workItem from="1669284669922" duration="6114000" />
+      <workItem from="1669743331540" duration="4111000" />
     </task>
     <servers />
   </component>
