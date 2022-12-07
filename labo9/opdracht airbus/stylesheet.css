@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("fotos/pagebackground.png");
+    background-position: top;
+}
+
+/*moet nog tegen bovenrand krijgen*/
+.top{
+    position: relative;
+    height: 200px;
+    background-image: url("fotos/bgsky3.jpg");
+    text-align: center;
+    color: darkblue;
+    float: top;
+
+}
+
+.top img {
+    position: absolute;
+    right: 90px;
+    bottom: 60px;
+}
+
+#top1{
+    font-size: 300%;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#top2{
+    font-size: 240%;
+    font-weight: bold;
+}
+
+.news{
+    width: 30%;
+    background-color: #dddddd;
+    border: 1px solid  black;
+    float: right;
+}
+
+.news > p{
+    color: #666666;
+    font-size: 90%;
+    padding: 10px;
+}
+
+.news > h3{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 120%;
+}
+
+.main{
+    width: 70%;
+    box-sizing: border-box;
+    padding-right: 15px;
+}
+
+#introduction{
+    background-color: white;
+    color: black;
+    margin: 0 20px 0 20px;
+    text-align: justify;
+    overflow: hidden;
+    /*"tekst uitlijnen*/
+}
+
+#introduction span{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.gallery{
+    box-sizing: border-box;
+    background-color: #999999;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+
+.gallery img{
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bottom{
+    background-color: #666666;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+}
+
+.bottom div{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    line-height: 2em;
+    padding: 30px 0;
+    color: white;
+}
+
+.bottom div:nth-child(odd) {
+    padding-left: 20%;
+    text-decoration: none;
+}
+
+#copyright {
+    background-color: white;
+    text-align: center;
+    padding: 0 50px;
+}
