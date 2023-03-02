@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,32 +30,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Noah/Documents/GitHub/NoahVanSteenlandt.github.io/labo11/Demo/grid&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Noah/OneDrive - Hogeschool VIVES/Documenten/GitHub/NoahVanSteenlandt.github.io/JS/labo2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo2" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\bababa\BeginSituatie_Kitchn\recommended" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\grid" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\bootstrap\css" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\grid" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\Beginsituatie" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo5\sytle" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1\styles" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1\styles\images" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\bababa\BeginSituatie_Kitchn\recommended" />
+      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\Kitchn\BeginSituatie_Kitchn (1)\BeginSituatie_Kitchn" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,6 +102,24 @@
       <workItem from="1671099001414" duration="5767000" />
       <workItem from="1671368210408" duration="1626000" />
       <workItem from="1671556294727" duration="3556000" />
+      <workItem from="1671653499215" duration="63000" />
+      <workItem from="1671703839021" duration="4407000" />
+      <workItem from="1671785465646" duration="3327000" />
+      <workItem from="1672234147490" duration="13123000" />
+      <workItem from="1672330058877" duration="7338000" />
+      <workItem from="1672423120693" duration="29000" />
+      <workItem from="1673703590392" duration="1722000" />
+      <workItem from="1673885247033" duration="9473000" />
+      <workItem from="1673950838327" duration="9617000" />
+      <workItem from="1673976170039" duration="5792000" />
+      <workItem from="1674027442641" duration="9913000" />
+      <workItem from="1674063910295" duration="9000" />
+      <workItem from="1674551972353" duration="603000" />
+      <workItem from="1674564165021" duration="597000" />
+      <workItem from="1676019798133" duration="4781000" />
+      <workItem from="1676061968679" duration="547000" />
+      <workItem from="1676447493313" duration="1932000" />
+      <workItem from="1677776355698" duration="5887000" />
     </task>
     <servers />
   </component>

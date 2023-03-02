@@ -1,0 +1,196 @@
+/** Volgende CSS gaan we ze geven **/
+*{
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    font-size:2.5em;
+    text-transform: uppercase;
+    text-decoration: underline solid black 2px;
+    padding-bottom: 100%;
+    margin-bottom: 100%;
+}
+
+h2{
+    font-size: 150%;
+    margin-bottom: 150%;
+}
+
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#logo{
+    height: 50px;
+}
+
+.line{
+    background-color: #ebe8e8;
+    height: 3px;
+    width: 100%;
+}
+
+#headercontainer{
+    margin: auto;
+}
+
+#navcontainer{
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+
+}
+
+#navcontainer span{
+    text-transform: uppercase;
+    height: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#navcontainer div{
+    width: 1px;
+    height: 100%;
+    background-color: #ebe8e8;
+    margin: 5px;
+    padding: 0;
+}
+
+#banner{
+    background-image: url("imagesKitchn/headerimage.jpg");
+    height: 430px;
+    width: 100%;
+    color: white;
+    font-size: 3em;
+    margin: auto;
+
+
+    /*align text vertically and horizontally*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-shadow: cornflowerblue 2px 2px
+
+}
+
+#maincontainer{
+    width: 50%;
+    margin: auto;
+}
+
+#recipes{
+    font-weight: bold;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+#blackline{
+    width: 100%;
+    height: 3px;
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+#articles{
+    display:grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.linearticles{
+    background-color: #ebe8e8;
+    height: 3px;
+    width: 95%;
+}
+
+.theme{
+    color: red;
+    text-transform: uppercase;
+    width: 100%;
+    margin: 10px 0 10px 0;
+    font-size: 1.2em;
+    float: left;
+    letter-spacing: 1px;
+}
+
+.articletitle{
+    float: left;
+    margin-bottom: 20px;
+}
+
+.articletitle a{
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.description{
+    color: #666;
+    line-height: 2;
+}
+
+.author{
+    font-style: italic;
+    padding-right: 10px;
+    border-right: #ebe8e8 1px solid;
+}
+
+.timestamp{
+
+}
+
+.mainrecommended{
+    padding-top: 50px;
+    width: 750px;
+    margin: auto;
+}
+
+#recommended{
+    margin-bottom: 20px;
+    float: left;
+    padding-bottom: 30px;
+    line-height: 2px;
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    width: 100%;
+}
+
+#reclist img{
+    margin-bottom: 25px;
+
+}
+
+#left{
+    float:left;
+    margin:auto;
+    width: 50%;
+    display: inline-block;
+    line-height: 2em;
+    text-align: right;
+    padding-right: 5px;
+    border-top: 1px solid #ebe8e8;
+}
+
+#right{
+    display: inline-block;
+    float:left;
+    margin:auto;
+    background-color: black;
+    color: white;
+    width: 50%;
+    line-height: 2em;
+    padding-left: 5px;
+    border-top: 1px solid #ebe8e8;
+}

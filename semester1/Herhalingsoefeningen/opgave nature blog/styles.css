@@ -1,0 +1,37 @@
+body{
+    width: 75%;
+    margin: auto;
+}
+
+article{
+    background-color: whitesmoke;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+#header{
+    background-image: url("header.jpg");
+    color: white;
+    font-size: 1.6em;
+    height: 100px;
+}
+
+nav{
+    background-color: #333333;
+}
+
+nav a{
+    color: mediumspringgreen;
+    text-decoration: none;
+}
+
+section article header h1{
+    color: #444444;
+    font-size: 1.4em;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+
+

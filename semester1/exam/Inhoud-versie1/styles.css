@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Segoe UI, Arial, sans-serif ;
+    font-size: 1.2em;
+}
+
+/** BACKGROUND **/
+
+#background{
+    background-color: #00d4ef;
+    background-image: url("background.png");
+    width: 100%;
+    background-repeat: repeat-x;
+    margin: auto;
+}
+
+#page{
+    width: 992px;
+    margin: auto;
+}
+
+#content img{
+    width: 100%;
+}
+/** HEADER **/
+
+#header{
+    width: 100%;
+    background-color: #C19CD6;
+    height: 50px;
+}
+
+#header ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+#header ul li{
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#header ul li a{
+    text-decoration: none;
+    color: #000ece;
+    margin: auto 1em auto 1em;
+    align-items: center;
+    font-weight: bold;
+}
+
+#header ul li a:hover{
+    text-decoration: underline;
+}
+
+/** INHOUD **/
+#code{
+    height: 300px;
+}
+
+#container{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 17% 75% 1fr;
+    grid-gap:10px;
+}
+
+#content{
+    background-color: whitesmoke;
+}
+
+
+#title h2{
+    font-size: 3rem;
+    margin: 10px 0 30px 0;
+}
+
+#inhoud{
+    border-right: 1px solid grey;
+}
+
+#inhoud ol{
+    list-style: upper-roman;
+    list-style-position: inside;
+    margin-left: 25px;
+    font-size: 0.9em;
+}
+
+#inhoud ul{
+    list-style-type: square;
+    font-size: 0.9em;
+    margin-left: 35px;
+}
+
+#inhoud h2{
+    font-size: 1.8em;
+}
+
+#text h2{
+    font-size: 2.1em;
+}
+
+#text p{
+    font-size: 1em;
+}
+
+#opmerking{
+    background-color: #db97ff;
+    border-radius: 15px;
+    padding: 0.5em;
+    margin: 1em;
+}
+
+#opmerking h3{
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-left: 40px;
+    background: url("note.svg") no-repeat;
+}
+
+table {
+    width: 100%;
+    border: 1px dotted black;
+}
+
+table tr:nth-of-type(odd){
+    background-color: #bebebe;
+}
+
+table tr:nth-of-type(1){
+    background-color: #bd97ff;
+    border-bottom: 3px solid black;
+}
+
+table tr:nth-of-type(2){
+    background-color: #f3e4fb;
+    border-bottom: 3px solid black;
+}
+
+table tr td:nth-of-type(odd){
+    text-align: right;
+    border-right: 1px solid black;
+}
+
+tr:hover:nth-of-type(n+3){
+    background-color: #672d87;
+    color: white;
+}
+
+tr, td{
+    width: 50%;
+}
+
+#logos{
+    display: grid;
+    grid-template-rows: repeat(6, 1fr);
+    grid-gap: 25px;
+}
+
+
+#footer{
+    background-color: #eee;
+    font-size: 0.75em;
+    margin-top: 25px;
+    text-align: right;
+    padding-right: 5px;
+    font-style: italic;
+
+}
+
+@media screen and (max-width: 992px){
+    #inhoud{
+        display: none;
+    }
+}

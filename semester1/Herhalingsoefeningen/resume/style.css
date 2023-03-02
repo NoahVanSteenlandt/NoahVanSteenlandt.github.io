@@ -1,0 +1,43 @@
+body{
+    font-family: Helvetica;
+}
+
+body a{
+    color: #EF233C;
+}
+
+header, main, footer{
+    padding: 30px;
+}
+
+#header p, footer h2, footer p{
+    color: #8D99AE;
+}
+
+#header h1,#header h2{
+    color: #EDF2F4;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+header, footer{
+    background-color: #2B2D42;
+}
+
+main{
+    background-color: #8D99AE;
+}
+
+header{
+    margin-bottom: 10px;
+}
+
+footer{
+    margin-top: 10px;
+}
