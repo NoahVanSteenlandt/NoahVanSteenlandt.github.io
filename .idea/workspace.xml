@@ -30,36 +30,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Noah/OneDrive - Hogeschool VIVES/Documenten/GitHub/NoahVanSteenlandt.github.io/JS/labo2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Noah/OneDrive - Hogeschool VIVES/Documenten/GitHub/NoahVanSteenlandt.github.io/JS/labo3/colorpicker&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo3\colorpicker" />
       <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo2" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\bababa\BeginSituatie_Kitchn\recommended" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\grid" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\labo11\Demo\bootstrap\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo3\colorpicker" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1\styles" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1\styles\images" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\bababa\BeginSituatie_Kitchn\recommended" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\Kitchn\BeginSituatie_Kitchn (1)\BeginSituatie_Kitchn" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -119,7 +119,10 @@
       <workItem from="1676019798133" duration="4781000" />
       <workItem from="1676061968679" duration="547000" />
       <workItem from="1676447493313" duration="1932000" />
-      <workItem from="1677776355698" duration="5887000" />
+      <workItem from="1677776355698" duration="6251000" />
+      <workItem from="1677833655292" duration="9923000" />
+      <workItem from="1678038054433" duration="2671000" />
+      <workItem from="1678122293553" duration="2891000" />
     </task>
     <servers />
   </component>
