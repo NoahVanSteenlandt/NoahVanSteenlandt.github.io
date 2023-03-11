@@ -36,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Noah/OneDrive - Hogeschool VIVES/Documenten/GitHub/NoahVanSteenlandt.github.io/JS/labo3/producten/images",
+    "last_opened_file_path": "C:/Users/Noah/OneDrive - Hogeschool VIVES/Documenten/GitHub/NoahVanSteenlandt.github.io/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,11 +48,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\images" />
       <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo3\producten\images" />
       <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo3\colorpicker" />
       <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo2" />
       <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\exam\Inhoud-versie1" />
-      <recent name="C:\Users\Noah\Documents\GitHub\NoahVanSteenlandt.github.io\Herhalingsoefeningen\bababa\BeginSituatie_Kitchn\recommended" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Noah\OneDrive - Hogeschool VIVES\Documenten\GitHub\NoahVanSteenlandt.github.io\JS\labo3\colorpicker" />
@@ -126,6 +126,7 @@
       <workItem from="1678188185123" duration="1678000" />
       <workItem from="1678190674351" duration="7559000" />
       <workItem from="1678438468383" duration="11013000" />
+      <workItem from="1678546385128" duration="430000" />
     </task>
     <servers />
   </component>
