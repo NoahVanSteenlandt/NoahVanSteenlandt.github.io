@@ -1,6 +1,8 @@
 const setup = () => {
-    let bereken = document.getElementById("btnHerbereken");
-    bereken.addEventListener("click", herbereken)
+    let numbers = document.getElementsByClassName("numb");
+    for (let i = 0; i < numbers.length; i++) {
+        numbers[i].addEventListener("change", herbereken);
+    }
 }
 
 const herbereken = () =>{
@@ -17,9 +19,9 @@ const herbereken = () =>{
 
         const subtotaal = (kost * hoeveelheid) * (btw / 100 + 1);
         result += subtotaal;
-        results[i].innerHTML = subtotaal.toFixed(2) + " EURO";
+        results[i].innerHTML = subtotaal.toFixed(2).replace('.', ',') + " EURO";
     }
-    document.getElementById("totaal").innerHTML = result.toFixed(2) + " EURO";
-} 
+    document.getElementById("totaal").innerHTML = result.toFixed(2).replace('.', ',') + " EURO";
+}
 
 window.addEventListener("load", setup);
